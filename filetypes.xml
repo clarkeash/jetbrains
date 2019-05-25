@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="swig" type="PHP" />
+      <mapping pattern="anvil" type="PHP" />
     </extensionMap>
   </component>
 </application>
