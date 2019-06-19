@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="stir" type="PHP" />
       <mapping pattern="anvil" type="PHP" />
       <mapping pattern="swig" type="PHP" />
       <mapping pattern="straw" type="PHP" />
