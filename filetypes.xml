@@ -5,6 +5,7 @@
       <mapping pattern="anvil" type="PHP" />
       <mapping pattern="swig" type="PHP" />
       <mapping pattern="stir" type="PHP" />
+      <mapping ext="log" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
